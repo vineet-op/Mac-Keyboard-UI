@@ -13,7 +13,7 @@ const CustomButton = ({ label, subLabel, icon, wide, space }: KeyButtonProps) =>
     return (
         <div
             className={`flex flex-col hover:scale-108 transition-transform duration-200 ease-in-out items-center justify-center rounded-md border cursor-pointer border-gray-900 text-white p-2 m-0.5 
-            shadow-xl shadow-neutral-200/50    
+            shadow-lg shadow-neutral-100/50    
 
         ${space ? 'w-[900px]' : wide ? 'w-[150px]' : 'w-20'} h-12 bg-black`}
         >

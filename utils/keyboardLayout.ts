@@ -29,7 +29,7 @@ export const keyboardLayout = [
         { label: 'shift', wide: true }, { label: 'Z' }, { label: 'X' }, { label: 'C' }, { label: 'V' }, { label: 'B' }, { label: 'N' }, { label: 'M' }, { label: ',', subLabel: '<' }, { label: '.', subLabel: '>' }, { label: '/', subLabel: '?' }, { label: 'shift', wide: true }
     ],
     [
-        { label: 'fn' }, { label: 'control', subLabel: '^', }, { label: 'option', subLabel: '⌥' }, { label: 'command', subLabel: '⌘' }, { label: 'space', wide: true }, { label: 'command', subLabel: '⌘' },
+        { label: 'fn', subLabel: ' 🌍︎ ' }, { label: 'control', subLabel: '^', }, { label: 'option', subLabel: '⌥' }, { label: 'command', subLabel: '⌘' }, { label: 'space', wide: true }, { label: 'command', subLabel: '⌘' },
         { label: 'option', subLabel: '⌥' },
 
         { label: '←' }, { label: '↑' }, { label: '↓' }, { label: '→' }
